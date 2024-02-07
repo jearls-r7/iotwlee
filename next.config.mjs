@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   output: "export",
-  basePath: "/<your_repo_name>",
+  basePath: "/iotwlee",
   images: {
     unoptimized: true,
   },
